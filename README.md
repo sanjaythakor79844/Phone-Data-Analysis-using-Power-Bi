@@ -1,4 +1,4 @@
-# Phone-Data-Analysis-using-Power-Bi
+# Phoneपे-Data-Analysis-using-Power-Bi
 Overview
 The PhonePe Data Analysis Dashboard is a comprehensive and interactive visualization tool developed using Power BI. It is designed to analyze and showcase key trends and insights from PhonePe's transactional data, including payment patterns, user behavior, and regional performance. This dashboard empowers stakeholders to make informed decisions based on data-driven insights.
 
